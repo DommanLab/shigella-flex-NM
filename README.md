@@ -1,4 +1,5 @@
-# Multidrug-resistant _Shigella flexneri_ outbreak associated with a high-mortality spillover event into nonhuman primates
+# Multidrug-resistant _Shigella flexneri_ outbreak affecting humans and non-human primates in New Mexico, USA
+
 
 **Sarah Shrum Davis<sup>1,2,3</sup>, Paris Salazar-Hamm<sup>3,4,5</sup>, Karen Edge<sup>1</sup>, Tim Hanosh<sup>1</sup>, Jessica Houston<sup>1</sup>, Anastacia Griego-Fisher<sup>6</sup>, Francelli Lugo<sup>7</sup>, Nicholas Wenzel<sup>6</sup>, D’Eldra Malone<sup>6</sup>, Carol Bradford<sup>8</sup>, Kelly Plymesser<sup>1,2</sup>, Michael Baker<sup>1,2</sup>, Kurt Schwalm<sup>9</sup>, Sarah Lathrop<sup>2</sup> , Chad Smelser<sup>1</sup>, Darrell Dinwiddie<sup>4,9</sup>, Daryl Domman<sup>4,5,10</sup>**
 
